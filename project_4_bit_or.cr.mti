@@ -1,0 +1,65 @@
+{E:/VHDL Programming/project_4_bit_XNOR.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/VHDL Programming/project_4_bit_XNOR.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FBXNOR
+-- Compiling architecture Behavioral of FBXNOR
+
+} {} {}} {E:/VHDL Programming/project_4_bit_NOR.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/VHDL Programming/project_4_bit_NOR.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FBNOR
+-- Compiling architecture Behavioral of FBNOR
+
+} {} {}} {E:/VHDL Programming/project_4_bit_and.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/VHDL Programming/project_4_bit_and.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FBAND
+-- Compiling architecture Behavioral of FBAND
+
+} {} {}} {E:/VHDL Programming/project_or_gate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/VHDL Programming/project_or_gate.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity OR_GATE
+-- Compiling architecture Behavioral of OR_GATE
+
+} {} {}} {E:/VHDL Programming/project_or_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/VHDL Programming/project_or_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity OR_GATE_TB
+-- Compiling architecture behavior of OR_GATE_TB
+
+} {} {}} {E:/VHDL Programming/project_4_bit_or.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/VHDL Programming/project_4_bit_or.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FBOR
+-- Compiling architecture Behavioral of FBOR
+
+} {} {}} {E:/VHDL Programming/project_4_bit_XOR.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/VHDL Programming/project_4_bit_XOR.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FBXOR
+-- Compiling architecture Behavioral of FBXOR
+
+} {} {}} {E:/VHDL Programming/project_4_bit_NAND.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/VHDL Programming/project_4_bit_NAND.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FBNAND
+-- Compiling architecture Behavioral of FBNAND
+
+} {} {}}
